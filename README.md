@@ -1,6 +1,6 @@
 # AsyncOperations
 
-[![CI Status](https://img.shields.io/travis/Jader Feijo/AsyncOperations.svg?style=flat)](https://travis-ci.org/Jader Feijo/AsyncOperations)
+[![CI Status](https://img.shields.io/travis/jaderfeijo/AsyncOperations.svg?style=flat)](https://travis-ci.org/jaderfeijo/AsyncOperations)
 [![Version](https://img.shields.io/cocoapods/v/AsyncOperations.svg?style=flat)](https://cocoapods.org/pods/AsyncOperations)
 [![License](https://img.shields.io/cocoapods/l/AsyncOperations.svg?style=flat)](https://cocoapods.org/pods/AsyncOperations)
 [![Platform](https://img.shields.io/cocoapods/p/AsyncOperations.svg?style=flat)](https://cocoapods.org/pods/AsyncOperations)
