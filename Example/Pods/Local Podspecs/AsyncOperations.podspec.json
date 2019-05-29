@@ -1,0 +1,22 @@
+{
+  "name": "AsyncOperations",
+  "version": "0.1.0",
+  "summary": "A short description of AsyncOperations.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Jader Feijo/AsyncOperations",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Jader Feijo": "jader.feijo@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Jader Feijo/AsyncOperations.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "AsyncOperations/Classes/**/*"
+}
